@@ -1,5 +1,3 @@
-# Some Code
-
 $\rm Life$ $\rm ‘s$ $\rm not$ $\rm out$ $\rm to$ $\rm get$ $\rm you$ $\rm !$ 
 
 --- 
